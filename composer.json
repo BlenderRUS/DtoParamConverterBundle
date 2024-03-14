@@ -19,7 +19,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^7.4 || ^8.0",
-        "symfony/framework-bundle": "^4.4|^5.3|^6.0",
+        "symfony/framework-bundle": "^4.4|^5.3|^6.0|^7.0",
         "doctrine/annotations": "^1.0|^2.0",
         "symfony/serializer": "^4.4|^5.3|^6.0",
         "symfony/property-access": "^4.4|^5.3|^6.0",
